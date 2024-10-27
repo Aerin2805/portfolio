@@ -1,0 +1,61 @@
+[
+  {
+    "name": "RentalHub",
+    "desc": "A property listing and management platform for student accommodation.",
+    "image": "RentalHub",
+    "category": "Python",
+    "links": {
+      "code": "https://github.com/Aerin2805/Team_SHAKti",
+      "view": "https://greatrentanlhub.onrender.com/"
+    }
+  },
+  {
+    "name": "Rule Engine with AST",
+    "desc": "3-tier rule engine to determine eligibility based on user attributes using Abstract Syntax Trees.",
+    "image": "AST",
+    "category": "JavaScript",
+    "links": {
+      "code": "https://github.com/kalpan2302/kalpan2302-Rule-Engine-With-AST--Kalpan",
+      "view": "https://rule-engine-ast-b27b.onrender.com/"
+    }
+  },
+  {
+    "name": "Corporate Crime Game",
+    "desc": "Murder mystery game for event participants with live leaderboard and 99% uptime.",
+    "image": "cc",
+    "category": "JavaScript",
+    "links": {
+      "code": "https://github.com/Aerin2805/MurderMystery",
+      "view": "https://murdermystery.onrender.com/"
+    }
+  },
+  {
+    "name": "CataBlog",
+    "desc": "An interactive blog platform with full CRUD functionalities, secure authentication, and responsive design, built to enhance user engagement and privacy.",
+    "image": "cata",
+    "category": "JavaScript",
+    "links": {
+      "view": "https://greatcatablog.onrender.com/",
+      "code": "https://github.com/Aerin2805/Catablog"
+    }
+  },
+  {
+    "name": "Weather Aggregator",
+    "desc": "A real-time weather data monitoring system with configurable temperature alerts and aggregate data processing every 5 minutes.",
+    "image": "weather",
+    "category": "JavaScript",
+    "links": {
+      "view": "https://greatweathermonitering.onrender.com/",
+      "code": "https://github.com/kalpan2302/Kalpan-Weather-Monitoring-with-Rollups-and-Aggregates"
+    }
+  },
+  {
+    "name": "Coding Profiles",
+    "desc": "Competitive coding profiles showcasing achievements on platforms like Leetcode, CodeChef, and GeeksforGeeks.",
+    "image": "cp",
+    "category": "Competitive Coding",
+    "links": {
+      "view": "https://greatrentanlhub.onrender.com/"
+    }
+  }
+]
