@@ -42,7 +42,7 @@ $(document).ready(function () {
         event.preventDefault();
 
         // Initialize EmailJS
-        emailjs.init("9ASHjIyq2Euaf4GK2");
+        emailjs.init("ad-BI7W-eWCC5GUwS");
 
         // Get form field values
         const name = $('input[name="name"]').val();
@@ -117,7 +117,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Competitive Programming", "backend development", "web development"],
+    strings: ["Software Engineering", "Network Engineering", "Cloud & Security Enthusiast"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
